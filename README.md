@@ -63,7 +63,7 @@ FORM | private space
 KISS | open space
 
 
-***Möglichkeitsraum (M)***: Menge aller in diesem System möglichen Zustände
+**Möglichkeitsraum (M)**: Menge aller in diesem System möglichen Zustände
 
 Prozesssache `agil`:  
 A:  
