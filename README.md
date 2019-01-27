@@ -115,7 +115,7 @@ Diese Stabilisierung (Erhöhung der Entropie in **R**) kommt durch die "*Erschli
 
 **Informationen** in der **4d-Realität** = "*Internet*" = base16 -> **Informationsraum (I)** = **5d-Realität**  
 
-Diese **Informationen** erhöhen durch "*Information-Gathering*" (`Möglichkeiten(`Ressourcen`)` = **M**(**R**) = **Realitätsverarbeitung** in **I** = **5d-Realität** ) die Entropie in **R** und sorgen dafür einen sich stabilisierenden Zustand ("*base10(base7 "\**" base16)*") in **4d-Realität** (Entropieabfall 5d -> 4d).  
+Diese **Informationen** erhöhen durch "*Information-Gathering*" (`Möglichkeiten(`Ressourcen`)` = **M**(**R**) = **Realitätsverarbeitung** in **I** = **5d-Realität** ) die Entropie in **R** und sorgen dafür einen sich stabilisierenden Zustand ("base10(base7 "\*" base16)") in **4d-Realität** (Entropieabfall 5d -> 4d).  
 
 **4d-Realität**: *"Erfahrungen (E)*"  
 **5d-Realität**: **Informationen (I)**  
