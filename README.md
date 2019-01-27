@@ -123,3 +123,5 @@ Diese **Informationen** erhöhen durch "*Information-Gathering*" (`Möglichkeite
 => **E** *X* **I** = **E** verschränkt mit **I** = agil in **4d-Realität**  
 
 => **FORM** ist das zugrundeliegende Element zur strategischen Stabilisierung der **4d-Realität**  
+
+<https://de.wikipedia.org/wiki/Quod_erat_demonstrandum>
