@@ -100,7 +100,7 @@ Möglichkeitsraum der beschränkten 4d Ressourcen (**Ressourcen (R)**): base7 (�
 Herleitung:  
 Im Laufe der Zeit hat sich der Mensch seinen Möglichkeitsbereich "*erschlossen*". Dieser Möglichkeitsraum (**M**) ist ein "*Gefäß*" und das wird durch Interaktion mit **Ressourcen** (**R**) "*gefüllt*":  
 
-`Möglichkeiten(`Ressourcen`)` (**M** in **R**)  
+`Möglichkeiten(`Ressourcen`)` (**R** in **M**)  
 
 Die Ressourcenmöglichkeiten (**R**) sind jederzeit bis zur Höhe von base7 "*gefüllt*":  
 
