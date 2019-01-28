@@ -50,7 +50,7 @@ FORM in *form*:
 * Respekt: genau **mit** diesen Personen
 * Mut: genau **so**
 
-Konflikte sind ein ***Informationsdefiziz***.
+Konflikte sind ein ***Informationsdefizit***.
 
 Ebenen:  
 
