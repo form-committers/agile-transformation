@@ -45,10 +45,10 @@ Dein Team ist Dein **Cluster** (<https://en.wikipedia.org/wiki/Computer*cluster>
 
 FORM in *form*:  
 
-* Fokus: genau **das**
-* Offenheit: genau **jetzt**
-* Respekt: genau **mit** diesen Personen
-* Mut: genau **so**
+* Fokus: genau **das** (*Was?*)
+* Offenheit: genau **jetzt** (*Wann?*)
+* Respekt: genau **mit** diesen Personen (*Mit wem?*)
+* Mut: genau **so** (*Wie?*)
 
 Konflikte sind ein ***Informationsdefizit***.
 
