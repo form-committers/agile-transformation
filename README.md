@@ -92,6 +92,8 @@ C:
 
 ## Mathematischer Beweis:
 
+(unvollständig, danke an T.S. für das Entdecken!)
+
 Möglichkeitsraum der Menschen (**Möglichkeiten (M)**): base10 (Denken in 10er Potenzen)  
 Möglichkeitsraum der beschränkten 4d Ressourcen (**Ressourcen (R)**): base7 (Ökologischer Fußabdruck)  
 
