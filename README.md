@@ -2,6 +2,8 @@
 
 (Eine Frage: Hat wirklich niemand von Euch da draussen die Eier mich zu _fragen_ was das denn eigentlich bedeutet?? Krass. Echt.)
 
+Bitte keine Fragen vor Montag, 18. März 10:00 Uhr.
+
 Die bisher verwendete Methode ("Wasserfallmodell", "Kapitalismus") war sehr gut geeignet um Systeme mit begrenzten Ressourcen zu verwalten.  
 Das dazu geeignete Strukturelement war: Handeln.  
 Die agile Methode ist sehr gut dazu geeignet um Systeme mit unbegrenzten Ressourcen ("Informationen") zu verwalten.  
