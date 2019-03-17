@@ -1,6 +1,6 @@
 # Grundelemente der agilen Theorie und deren Bedeutung für die Realität (agile mathematic)
 
-(Eine Frage: Hat wirklich niemand von Euch da drausen die Eier mich zu _fragen_ was das denn eigentlich bedeutet?? Krass. Echt.)
+(Eine Frage: Hat wirklich niemand von Euch da draussen die Eier mich zu _fragen_ was das denn eigentlich bedeutet?? Krass. Echt.)
 
 Die bisher verwendete Methode ("Wasserfallmodell", "Kapitalismus") war sehr gut geeignet um Systeme mit begrenzten Ressourcen zu verwalten.  
 Das dazu geeignete Strukturelement war: Handeln.  
