@@ -1,6 +1,6 @@
 # Grundelemente der agilen Theorie und deren Bedeutung für die Realität (agile mathematic)
 
-(Eine Frage: Hat wirklich niemand von Euch da draussen die Eier mich zu _fragen_ was das denn eigentlich bedeutet?? Krass. Echt.)
+(JFYI: Die Frage zum Lösen dieses Rätzels lautet: "Was bedeutet das?" und diese Frage würde ich liebend gerne einen, mehreren oder vielen dem Zuhören geneigten Personen beantworten.)
 
 Bitte keine Fragen vor Montag, 18. März 10:00 Uhr.
 
