@@ -4,6 +4,8 @@
 
 &nbsp;
 
+open Refinement (2): tomorrow 10:00 to 12:30
+
 Die bisher verwendete Methode ("Wasserfallmodell", "Kapitalismus") war sehr gut geeignet um Systeme mit begrenzten Ressourcen zu verwalten.  
 Das dazu geeignete Strukturelement war: Handeln.  
 Die agile Methode ist sehr gut dazu geeignet um Systeme mit unbegrenzten Ressourcen ("Informationen") zu verwalten.  
