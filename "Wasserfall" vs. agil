@@ -1,0 +1,45 @@
+
+"Wasserfall" vs. agil
+
+Der Hauptunterschied zwischen diesen beiden System ist die unterschiedliche Plazierung des Elements C (Commitment) im CAPE.
+
+Das in beiden Systemen vorhandene Element ist APE (scherzhaft "den Affen machen"). APE ist eine Zusammensetzung der Wörter analyse, plan, execute.
+
+Folgendes Beispiel:
+
+Von "irgendwoher" kommt die Anweisung: "Hebe diesen Stift auf."
+
+Im "alten" "Wasserfall" System ist das Aufheben des Stifts ohne weiteres sofort möglich. Versuche das.
+
+Für die Übersetzung in das agile System jedoch, ist es ratsam diesen doch schnellen Schritt mindestens einmal komplett in seine Bestandtteile aufzutrennen.
+
+Gehen wir zuerst einmal davon aus, das commitment ist bereits vorhanden.
+
+Dann können wir sofort zu analyse übergehen:
+"Was bedeutet es für _mich_ denn diesen Stift aufzuheben?"
+"Wie genau soll denn dieser Stift bewegt werden? Rechte Hand? Linke Hand? Fuß? Ich sollte das erfragen oder auf meine bisherige Erfahrung bei der Formulierung von Abnahmekriterien "{?}" mit der requestenden Person eingehen."
+
+Durch die unterstützende Form der FORM können nun durch M(R) weitere Informationen (I) gesammelt werden. Ist der erfahrbare Möglichkeitsraum möglichst vollständig von Informationen belegt, kann zum nächsten Schritt über gegangen werden.
+
+plan bedeutet: wir betrachten die Umgebung.
+"Gibt es in der Umgebung eine Element oder eine Entität (oder [beides] hinreichend viele) die mich an der möglichen folgenden execution hindert?"
+
+Durch das dem plan innewohnenden agilen Element "Transparenz" (implizit vs. explizit) und der Erfahrung damit, kommen wir in die Lage den uns noch unerfahrbaren Möglichkeitsraum weiter auszubilden.
+
+Ist dies in Abstimmung mit den Abnahmekriterien "{?}" soweit als möglich erfolgt und wurden diese durch "Fehler" (ABC = anti blaming-culture, [als Hinleitung zu "FORM-Faktor A: Fokus", "FORM-Faktor B: Offenheit, Respekt" und "FORM-Faktor C: Mut"]) für das Review (7) in ein, mehr oder das Doc gewandelt, dann kann zum nächsten Schritt übergegangen werden.
+
+Die execution ist dann üblicherweise das am wenigsten die "Wasserfall"-Konstante "Zeit" belastende Einheit des agilen Systems (ein Grund mehr Zeit zu eliminieren!) [vulgo: geht schnell] und kann in der Effizienz noch durch das innewohnende Element der Beteiligung gesteigert werden. [grrrrrrr]
+
+Im Grunde genommen ist also die Transformation vom "Wasserfall" zum agilen System nichts weiters als ein Training in APE.
+
+Hinzu käme dann noch die Ausbildung des CAPE, also, und das ist nun der ganze Unterschied zum "Wasserfall", das heran ziehen des Elements C in das APE zum CAPE.
+
+Hier der Unterschied in grafisch:
+
++---+-----+
+| C | APE | : "Wasserfall"
++---+-----+
+                                                                                   <- Per Anhalter durch die Galaxy
++----------------------------+------+
+| anders colles agiles Zeugs | CAPE |
++----------------------------+------+
