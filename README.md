@@ -2,6 +2,7 @@
 
 (JFYI: Die Frage zum Lösen dieses Rätzels lautet: "Was bedeutet das?" und diese Frage würde ich liebend gerne einen, mehreren oder vielen dem Lesen geneigten Personen so nach und nach beantworten.)
 
+&nbsp;
 
 Die bisher verwendete Methode ("Wasserfallmodell", "Kapitalismus") war sehr gut geeignet um Systeme mit begrenzten Ressourcen zu verwalten.  
 Das dazu geeignete Strukturelement war: Handeln.  
