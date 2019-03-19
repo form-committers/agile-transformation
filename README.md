@@ -1,6 +1,6 @@
 # Grundelemente der agilen Theorie und deren Bedeutung für die Realität (agile mathematic)
 
-(JFYI: Die Frage zum Lösen dieses Rätzels lautet: "Was bedeutet das?" und diese Frage würde ich liebend gerne einen, mehreren oder vielen dem Zuhören geneigten Personen beantworten.)
+(JFYI: Die Frage zum Lösen dieses Rätzels lautet: "Was bedeutet das?" und diese Frage würde ich liebend gerne einen, mehreren oder vielen dem Lesen geneigten Personen so nach und nach beantworten.)
 
 
 Die bisher verwendete Methode ("Wasserfallmodell", "Kapitalismus") war sehr gut geeignet um Systeme mit begrenzten Ressourcen zu verwalten.  
